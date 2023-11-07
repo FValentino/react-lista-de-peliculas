@@ -1,0 +1,8 @@
+.sipnosis{
+    border: 1px solid #333333;
+    width: 350px;
+    height: 60px;
+    overflow: auto;
+    color: aliceblue;
+    font-size: 12px;
+}

@@ -1,7 +1,11 @@
-import React from 'react';
-import './style.css';
+import { useState } from 'react'
+import './App.css'
+import pelicula from './componentes/pelicula'
 
-export default function App() {
-  return (
-    
+function App() {
+  const [count, setCount] = useState(0)
+
+  return ( pelicula() )
 }
+
+export default App

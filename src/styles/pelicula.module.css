@@ -1,0 +1,13 @@
+.contenedor{
+    display: inline-flex;
+    background-color: rgba(58, 57, 57, 0.584);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    width: 50%;
+    height: 200px;
+}

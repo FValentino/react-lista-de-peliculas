@@ -1,16 +1,13 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
-  margin: 0;
-  padding: 1rem;
-  font-family: system-ui, sans-serif;
-  color: black;
-  background-color: white;
+  position: relative;
+  background: rgb(26, 26, 26);
+  justify-content: center;
 }
 
-h1 {
-  font-weight: 800;
-  font-size: 1.5rem;
+p{
+  display: inline;
+  font-size: 12px;
+  font-family: Helvetica;
+  color: aliceblue;
 }
+

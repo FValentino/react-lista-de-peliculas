@@ -1,0 +1,8 @@
+.poster{
+    align-items: flex-start;
+}
+.poster img{
+    width: 100px;
+    height: 200px;
+    border-radius: 10%;
+}

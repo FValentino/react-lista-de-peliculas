@@ -1,0 +1,36 @@
+.detallesRenglon{
+    align-items: center;
+    height: 10%;
+    margin-bottom: 5px;
+}
+
+.detallesRenglon div{
+    display: inline;
+}
+
+.calificacion label{
+    color: orange;
+}
+
+.calificar a{
+    color: beige;
+}
+.calificar:hover{
+    & label{
+        color: orange;
+    }
+
+    & a{
+        color: rgb(91, 91, 241);
+    }
+} 
+
+.metascore p label{
+    display: inline-flex;
+    color: white;
+    align-items: center;
+}
+
+.malo{background-color: red;}
+.medio{background-color: yellow;}
+.bueno{background-color: green;}
